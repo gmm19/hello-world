@@ -1,2 +1,3 @@
 # hello-world
-prueba
+prue
+Estoy haciendo mis primeros pasos en programacion
